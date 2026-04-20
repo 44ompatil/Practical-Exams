@@ -1,0 +1,17 @@
+AI & ML Practical List
+1. Write program to implement Depth First Search Algorithm (Uninformed) in Python
+2. Write program to Implement Breadth First Search Algorithm (Uninformed) in Python
+3. Write program to implement Greedy Best-First (Informed Type) Search Algorithm in python
+4. Write program to implement A* search (Informed Type) Algorithm in Python
+5. Write program to implement Bayes’ Theorem
+6. Write program in python to split any dataset into train and tests sets
+7. Create and display a Decision Tree on any dataset
+8. Write program to implement K-means Algorithm
+9. Write a Python program to load the Iris dataset and display the dataset details.
+10.Write a Python program to calculate cross-validation score using any machine learning model.
+11.Write program to implement Simple Linear Regression using Python
+12.Write program to implement Multiple Linear Regression using Python
+13.Write a Python program to create a confusion matrix for a classification model.
+14.Write a Python program to calculate performance measures like accuracy, precision, and recall.
+
+
